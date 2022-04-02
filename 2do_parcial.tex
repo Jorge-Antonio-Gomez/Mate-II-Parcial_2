@@ -133,6 +133,20 @@
 
         Esto quiere decir que la norma de un vector es la raíz de la suma los componentes del vector multiplicados consigos mismos.
 
+        Algunas propiedades de la norma de un vector son las siguientes:
+
+        \begin{itemize}
+
+            \item La norma de $\vec{A}$ es $\parallel \vec{A}\parallel$ = $\sqrt{\vec{A} \cdot \vec{A}}$
+            \item La distancia entre $\vec{A}$ y $\vec{B}$ es $d(\vec{A}, \vec{B}) = \parallel \vec{A} - \vec{B} \parallel$
+            \item El ángulo entre dos vectores diferentes de cero $\vec{A}$ y $\vec{B}$ está determinado por: \\
+            \begin{equation}
+                \cos \theta=\frac{\langle\vec{A}, \vec{B}\rangle}{\parallel\vec{A}\parallel\parallel\vec{B}\parallel}, \quad 0 \leq \theta \leq \pi
+            \end{equation}
+            \item Si $\langle \vec{A}, \vec{B}\rangle = 0$, $\vec{A}$ y $\vec{B}$ son ortogonoales entre sí.
+
+        \end{itemize}
+
         \subsubsection*{Ejemplo:}
 
         Determinar la norma del siguiente vector:
@@ -198,7 +212,7 @@
 
     Definiendo a $A$ y $B$ como matrices pertenecientes a un espacio vectorial $M$, donde:
 
-    \begin{gather*}
+    \begin{gather}
         A = \begin{bmatrix}
            a_{11} & a_{12} \\
            a_{21} & a_{22}
@@ -207,7 +221,7 @@
             b_{11} & b_{12} \\
             b_{21} & b_{22}
         \end{bmatrix}
-    \end{gather*}
+    \end{gather}
 
     tenemos que:
 
@@ -271,7 +285,7 @@
         \end{bmatrix}
     \end{gather*}
 
-    Solución:
+    Solución usando la ecuación $(13)$:
 
     \begin{equation*}
         \begin{aligned}
@@ -292,9 +306,11 @@
 
 \section{Producto punto para polinomios}
 
-    Al igual que para 
+   No necesariamente todas las funciones son producto punto. Para que pueda considerarse un producto punto en $R^n$ es necesario que se cumplan los cuatro axiomas que definen al producto punto.
 
-    Con los siguientes polinomios:
+   \subsubsection*{Ejemplo:}
+
+    Para desarrollar algunos ejemplos de producto punto sobre polinomios considere los siguientes polinomios:
     \begin{gather*}
         p(x)=1-2x^{2}\hspace{35pt}q(x)=4-2x+x^{2}\hspace{35pt}r(x)=x+2x^{2}
     \end{gather*}
@@ -321,7 +337,8 @@
     \textbf{c.}
         \begin{align*}
             \parallel p\parallel&= \sqrt{\langle q,q\rangle} & \\
-            \parallel p\parallel&= \sqrt{(4)(4)+(-2)(-2)+(1)(1)}=\sqrt{4^{2}+(-2)^{2}+1^{2}} & \\
+            \parallel p\parallel&= \sqrt{(4)(4)+(-2)(-2)+(1)(1)} \\
+            \parallel p\parallel&=\sqrt{4^{2}+(-2)^{2}+1^{2}} & \\
             \parallel p\parallel&= \sqrt{16+4+1} & \\
             \parallel p\parallel&= \sqrt{21}
         \end{align*}
@@ -337,8 +354,61 @@
 
 \section{Producto punto para funciones continuas}
 
+    El producto punto en una función continua se puede determinar por medio de una integral definida.
+
+    Sean $f$ y $g$ funciones continuas de valores reales en el espacio vectorial $C[a, b]$, la siguiente operación define un producto punto:
+
+    \begin{equation}
+        \langle f, g\rangle=\int_{a}^{b} f(x) g(x) d x
+    \end{equation}
+
 \section{Tarea}
 
-    %
+    Para desarrollar sus habilidades, practique con los siguientes ejercicios:
+
+    \subsection{Producto punto para vectores}
+
+        \subsubsection{Ortogonalidad}
+
+            Determine si los siguientes dos vectores son ortogonales:
+            \begin{gather*}
+                \vec{A} = (6,2,4) \hspace*{35 pt} \vec{B}=(2,4,0)
+            \end{gather*}
+
+        \subsubsection{Norma de un vector}
+
+            Determine la norma del siguiente vector:
+            \begin{gather*}
+                \vec{A} = (6,4,-7,2)
+            \end{gather*}
+
+        \subsubsection{Ángulo entre dos vectores}
+
+            Determine el ángulo entre el vector $\vec{A}$ y el vector $\vec{B}$:
+            \begin{gather*}
+                \vec{A} = (6,-2,-4) \hspace*{35 pt} \vec{B} = (0, 3, -7)
+            \end{gather*}
+
+    \subsection{Producto punto para matrices}
+
+            Sean la matriz $A$ y $B$ pertenecientes al espacio vectorial $M$, determine el producto punto:
+            \begin{gather*}
+                A = \begin{bmatrix}
+                    3  & 7 \\
+                    -4 & 1
+                \end{bmatrix} \hspace*{35 pt}
+                B = \begin{bmatrix}
+                    -6 & -2 \\
+                    4  & 7
+                \end{bmatrix}
+            \end{gather*}
+    
+    \subsection{Producto punto para polinomios}
+
+        Determine el producto punto de los siguientes polinomios:
+        \begin{gather*}
+            f(x) = 3x^3 - 6x^2 + 4x + 3 \hspace*{35 pt}
+            g(x) = 4x^3 + 3x - 7
+        \end{gather*}
 
 \end{document}
