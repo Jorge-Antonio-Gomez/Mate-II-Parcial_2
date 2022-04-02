@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.3.25)  2 APR 2022 01:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.3.25)  2 APR 2022 11:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -168,7 +168,7 @@ File: images/img-1-componentes.png Graphic file (type png)
 <use images/img-1-componentes.png>
 Package pdftex.def Info: images/img-1-componentes.png  used on input line 55.
 (pdftex.def)             Requested size: 113.81102pt x 101.68398pt.
- [2 </home/quantum/documents/2_semestre/matematicas/2do_parcial/images/img-1-componentes.png>] [3] [4] [5] [6] [7] [8] (/home/quantum/documents/2_semestre/matematicas/2do_parcial/2do_parcial.aux)
+ [2 </home/quantum/documents/2_semestre/matematicas/2do_parcial/images/img-1-componentes.png>] [3] [4] [5] [6] [7] (/home/quantum/documents/2_semestre/matematicas/2do_parcial/2do_parcial.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -182,10 +182,10 @@ Here is how much of TeX's memory you used:
  14 hyphenation exceptions out of 8191
  30i,14n,25p,527b,226s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/quantum/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb>
-Output written on /home/quantum/documents/2_semestre/matematicas/2do_parcial/2do_parcial.pdf (8 pages, 182905 bytes).
+Output written on /home/quantum/documents/2_semestre/matematicas/2do_parcial/2do_parcial.pdf (7 pages, 181918 bytes).
 PDF statistics:
- 94 PDF objects out of 1000 (max. 8388607)
- 66 compressed objects within 1 object stream
+ 91 PDF objects out of 1000 (max. 8388607)
+ 64 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
