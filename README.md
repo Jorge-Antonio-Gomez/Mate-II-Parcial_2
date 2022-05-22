@@ -3,7 +3,8 @@
 ## ¿cómo encontrar el archivo?
 - Para ver el código fuente accede al archivo desde:
 
-    <a href="/2do_parcial.tex">2do_parcial.tex</a>
+    <a href="/2do_parcial.tex">2do_parcial.tex</a><br>
+    <a href="/3der_parcial.tex">3er_parcial.tex</a>
     
 - Para ver el archivo .PDF puedes acceder a él desde:
   
