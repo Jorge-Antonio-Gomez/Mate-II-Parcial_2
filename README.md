@@ -1,4 +1,4 @@
-# Matemáticas II: Parcial II
+# Matemáticas II: Parciales II y III
 
 ## ¿cómo encontrar el archivo?
 - Para ver el código fuente accede al archivo desde:
