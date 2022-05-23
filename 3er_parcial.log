@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.3.25)  22 MAY 2022 16:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.3.25)  23 MAY 2022 00:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -120,20 +120,20 @@ File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
 ) (/home/quantum/documents/2_semestre/matematicas/3er_parcial/3er_parcial.aux)
 \openout1 = `3er_parcial.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
  (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count188
@@ -153,60 +153,71 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 22.
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 24.
  (/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-LaTeX Font Info:    Trying to load font information for U+bbold on input line 22.
-LaTeX Font Info:    No file Ubbold.fd. on input line 22.
+LaTeX Font Info:    Trying to load font information for U+bbold on input line 24.
+LaTeX Font Info:    No file Ubbold.fd. on input line 24.
 
 
 LaTeX Font Warning: Font shape `U/bbold/m/n' undefined
-(Font)              using `U/cmr/m/n' instead on input line 22.
+(Font)              using `U/cmr/m/n' instead on input line 24.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 22.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 24.
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 22.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 24.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (34.11456pt too wide) in paragraph at lines 46--46
+Overfull \hbox (34.11456pt too wide) in paragraph at lines 25--25
 []\OT1/cmr/bx/n/14.4 Introducci^^Son. Definici^^Son de con-cep-tos y pre^^Sambulo
+ []
+
+
+Overfull \hbox (13.52841pt too wide) in paragraph at lines 47--48
+\U/bbold/m/n/10 Cuando un agente econ^^Somico gen-era un in-greso al re-alizar una op-eraci^^Son econ^^Somica,
  []
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (13.52841pt too wide) in paragraph at lines 68--69
-\U/bbold/m/n/10 Cuando un agente econ^^Somico gen-era un in-greso al re-alizar una op-eraci^^Son econ^^Somica,
- []
-
-[2] [3]
-<img_1.png, id=25, 568.524pt x 280.6485pt>
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
+<img_1.png, id=20, 568.524pt x 280.6485pt>
 File: img_1.png Graphic file (type png)
 <use img_1.png>
-Package pdftex.def Info: img_1.png  used on input line 118.
-(pdftex.def)             Requested size: 284.52756pt x 140.45665pt.
- [4 </home/quantum/documents/2_semestre/matematicas/3er_parcial/img_1.png>] (/home/quantum/documents/2_semestre/matematicas/3er_parcial/3er_parcial.aux)
+Package pdftex.def Info: img_1.png  used on input line 97.
+(pdftex.def)             Requested size: 256.0748pt x 126.41055pt.
+ [3 </home/quantum/documents/2_semestre/matematicas/3er_parcial/img_1.png>]
+<img_2.png, id=28, 470.9595pt x 249.3315pt>
+File: img_2.png Graphic file (type png)
+<use img_2.png>
+Package pdftex.def Info: img_2.png  used on input line 108.
+(pdftex.def)             Requested size: 227.62204pt x 120.50333pt.
+ [4 </home/quantum/documents/2_semestre/matematicas/3er_parcial/img_2.png>] [5] [6] [7]
+Overfull \hbox (110.77878pt too wide) in paragraph at lines 245--246
+\U/bbold/m/n/10 2020". YouTube, 26 de ju-nio de 2020. Video, 16:40. https://www.youtube.com/watch?v=Zld8WtqWzIY. 
+ []
+
+[8] (/home/quantum/documents/2_semestre/matematicas/3er_parcial/3er_parcial.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 2401 strings out of 483183
- 31613 string characters out of 5966292
- 258856 words of memory out of 5000000
- 17395 multiletter control sequences out of 15000+600000
+ 2406 strings out of 483183
+ 31678 string characters out of 5966292
+ 261856 words of memory out of 5000000
+ 17399 multiletter control sequences out of 15000+600000
  541871 words of font info for 63 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 30i,16n,31p,491b,221s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/quantum/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on /home/quantum/documents/2_semestre/matematicas/3er_parcial/3er_parcial.pdf (4 pages, 172834 bytes).
+ 30i,19n,31p,730b,221s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/quantum/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on /home/quantum/documents/2_semestre/matematicas/3er_parcial/3er_parcial.pdf (8 pages, 225476 bytes).
 PDF statistics:
- 84 PDF objects out of 1000 (max. 8388607)
- 59 compressed objects within 1 object stream
+ 103 PDF objects out of 1000 (max. 8388607)
+ 72 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
